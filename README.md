@@ -1,4 +1,4 @@
-## Hi there 👋
+i build stuff.
 
 <!--
 **Luci6n/Luci6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
